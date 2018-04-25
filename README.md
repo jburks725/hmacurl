@@ -5,7 +5,7 @@
 
 
 ### build
-`git clone https://github.com/udryan10/hmacurl.git`
+`git clone https://github.com/jburks725/hmacurl.git`
 
 `go build`
 
